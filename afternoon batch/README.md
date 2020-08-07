@@ -1,2 +1,0 @@
-# python afternoon batch
-
